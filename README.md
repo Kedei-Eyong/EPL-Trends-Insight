@@ -27,7 +27,9 @@ Match Trends - Seasonal match patterns, home wins, away wins, draws, home advant
 
 ## Getting Started
 Download the repository
+
 Preview the dataset & analysis
+
 Explore the dashboard
 
 ## Contact
