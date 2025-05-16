@@ -1,7 +1,7 @@
 
 ![skysports-premier-league-sky-sports_6382123](https://github.com/user-attachments/assets/80d38552-289d-4d76-aea1-ab26b47b5375)
 
-# An Exploratory Analysis of English Premier League Analysis: A Decade in Review (2014 - 2014)
+# An Exploratory Analysis of English Premier League: A Decade in Review (2014 - 2014)
 
 This repository contains an Exploratory Data Analysis (EDA) of EPL seasons, revealing key insights and trends within a given dataset.
 
