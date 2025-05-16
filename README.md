@@ -32,6 +32,3 @@ Explore the dashboard
 
 ## Contact
 For questions or collaboration, kindly contact kedei.eyong@yahoo.com 
-
-## About
-This repository provides an in-depth analysis of 10 EPL seasons, providing insight on goal performance, seasonal patterns, disciplinary trends, and match insights.
